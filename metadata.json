@@ -1,0 +1,7 @@
+{
+  "name": "ElectraVote - Online Voting & Election Management System",
+  "description": "A secure, transparent online voting platform with voter registration, verified ballot casting, real-time result tabulation, audit ledger, and Java+MySQL backend architectural viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
